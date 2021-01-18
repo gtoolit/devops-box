@@ -5,5 +5,7 @@
 ## Tools included
 
 • Terraform
+
 • AWS CLI
+
 • Ansible
